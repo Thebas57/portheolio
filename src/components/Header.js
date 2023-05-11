@@ -4,17 +4,17 @@ const Header = () => {
   return (
     <div>
       <nav>
-        <a href="#">Théo</a>
+        <a href="#a">Théo</a>
         <div className="nav">
           <ul>
             <li>
-              <a href="#">Accueil</a>
+              <a href="#e">Accueil</a>
             </li>
             <li>
-              <a href="#">À propos</a>
+              <a href="#f">À propos</a>
             </li>
             <li className="active">
-              <a href="#">Contact</a>
+              <a href="#a">Contact</a>
             </li>
           </ul>
         </div>
